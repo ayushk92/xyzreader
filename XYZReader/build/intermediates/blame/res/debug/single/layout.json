@@ -8,12 +8,12 @@
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -72,12 +72,12 @@
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
-        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",

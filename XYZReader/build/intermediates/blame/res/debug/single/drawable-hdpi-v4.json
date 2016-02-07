@@ -12,6 +12,10 @@
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_logo.png",
+        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/src/main/res/drawable-hdpi/ic_logo.png"
+    },
+    {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },

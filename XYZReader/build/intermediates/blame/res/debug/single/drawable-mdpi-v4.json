@@ -48,6 +48,10 @@
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_logo.png",
+        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/src/main/res/drawable-mdpi/ic_logo.png"
+    },
+    {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
