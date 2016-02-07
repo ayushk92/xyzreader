@@ -148,12 +148,12 @@
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
         "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/Users/akhatri/Documents/Projects/Android/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
